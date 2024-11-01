@@ -5,10 +5,5 @@ this is my first git repository
 
 
 
-# bruh
-
-MONEY
-
-
 
 
