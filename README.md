@@ -3,7 +3,7 @@
 this is my first git repository
 
 
-# F1
+# F1 -> MAIN
 
 
 
